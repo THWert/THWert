@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @THWert
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+안녕하세요. 워트입니다.
+저는 학원을 다니면서 공부하고 있습니다.
 
-<!---
-THWert/THWert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+깃허브와 동시에 블로그도 운영하고 있습니다. (https://keisukeaso.tistory.com/)
+
+문의할 곳
+
+구글 이메일 : ghgtyy@gamil.com
+
+네이버 이메일 : keisukeaso@naver.com
