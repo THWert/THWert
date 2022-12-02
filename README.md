@@ -5,6 +5,6 @@
 
 문의할 곳
 
-구글 이메일 : ghgtyy@gamil.com
+구글 이메일 : ghgtyy@gmail.com
 
 네이버 이메일 : keisukeaso@naver.com
